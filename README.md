@@ -1,10 +1,13 @@
+<div align="center">
 
+<img src="./assets/kirba.jpg" />
+
+</div>
 
 ### ✨ Привет, я Евгения ✨
 
 👁️ **Обучаю YOLO** · ⚡ **Оптимизирую кадры** · 🌌 **Оптимизирую структуры**
 
-![Profile Views](https://komarev.com/ghpvc/?username=eguseffa&color=000000&style=flat)
 
 </div>
 
@@ -31,8 +34,8 @@
 ---
 
 ### 📊 Активность
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eguseffa&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=eguseffa&show_icons=true&theme=dark)
+
 </div>
