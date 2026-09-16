@@ -15,9 +15,9 @@
 
 ### 📝 Обо мне
 
-* 👁️ Разрабатываю проекты в области **Computer Vision & Deep Learning** (YOLO, OpenCV, PyTorch)
+* 👁️ Разрабатываю проекты в области **Computer Vision** (YOLO, OpenCV, PyTorch)
 * ⚙️ Пишу код на **C++** (алгоритмы и структуры данных) и **Python**
-* 🌙 Лучшие идеи и коммиты приходят **после полночи**
+* 🌙 Лучшие идеи и коммиты приходят **после полуночи**
 * 📬 Связь: **Telegram:** [@lejjeje](https://t.me/lejjeje) | **Discord:** [ejj](https://discordapp.com/users/636251445427175454)
 
 ---
