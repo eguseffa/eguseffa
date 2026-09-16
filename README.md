@@ -1,10 +1,4 @@
-<div align="center">
 
-### 🌙 Late Night Coding Session
-
-<img src=" />
-
-♪ **Lofi Hip Hop — beats to relax/study to** ♪
 
 ### ✨ Привет, я Евгения ✨
 
